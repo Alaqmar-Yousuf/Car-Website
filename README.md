@@ -24,7 +24,7 @@ How to Run the Project
 Download the Project:
 
 1.Clone the repository using:
-git clone https://github.com/yourusername/luxury-motors.git  
+git clone https://github.com/Alaqmar-Yousuf/Car-Website  
 Or download the ZIP file and extract it to your preferred folder.
 
 2.Navigate to the Project Directory:
